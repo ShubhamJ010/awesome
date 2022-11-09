@@ -825,6 +825,7 @@
 
 ## Miscellaneous
 
+- [Bookmarking](https://github.com/dogancelik/awesome-bookmarking) - Tools for bookmarking selfhosted and Cloud.
 - [Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing#readme) - Distraction-free scientific writing with Markdown, reStructuredText and Jupyter notebooks.
 - [JSON](https://github.com/burningtree/awesome-json#readme) - Text based data interchange format.
 	- [GeoJSON](https://github.com/tmcw/awesome-geojson#readme)
